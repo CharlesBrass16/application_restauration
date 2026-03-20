@@ -12,6 +12,7 @@ Les différentes fonctionnalités offertes comportent notamment, sans y être li
 
 Coéquipiers/contributeurs :
 
+- Charles Brassard (github : CharlesBrass16
 - Élodie Langevin (github : Feltear)
 - Charles-Antoine Gaudreault (github : CharlesAntoineUL)
 - Dinar Sougoudji (github : SADIN4)
