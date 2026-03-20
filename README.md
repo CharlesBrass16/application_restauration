@@ -1,6 +1,21 @@
 # Projet - Restalo
 
-Le meilleur logiciel de réservation en restauration!
+Projet académique réalisé dans le cadre du cours GLO-2003
+
+Ce projet consistait au développement d'une application REST permettant la gestion d'un restaurant.
+Les différentes fonctionnalités offertes comportent notamment, sans y être limités:
+
+- Création et suppression d'un restaurant de la part d'un propriétaire
+- Création d'un menu avec ajout ou suppression de repas par le propriétaire
+- Création d'un horaire d'ouverture et modification de celui-ci par le propriétaire
+- Création de réservation par des clients
+
+Coéquipiers/contributeurs :
+
+- Élodie Langevin (github : Feltear)
+- Charles-Antoine Gaudreault (github : CharlesAntoineUL)
+- Dinar Sougoudji (github : SADIN4)
+- Carl Boulianne-Boivin (github : vigenere23)
 
 ## Requis
 
